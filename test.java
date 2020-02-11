@@ -1,3 +1,4 @@
+// A program to input 5 strings and display the same.
 
 public class test{
 
