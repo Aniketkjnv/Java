@@ -1,3 +1,6 @@
+//A program to demonstrate the visibility of variables
+// 28-02-2020
+
 class visibility
 {
 	private int i;
